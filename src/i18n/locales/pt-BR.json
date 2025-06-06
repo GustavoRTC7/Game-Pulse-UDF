@@ -1,0 +1,92 @@
+{
+  "common": {
+    "loading": "Carregando...",
+    "error": "Ocorreu um erro",
+    "success": "Sucesso!",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "back": "Voltar"
+  },
+  "navigation": {
+    "home": "Início",
+    "games": "Jogos",
+    "leaderboard": "Classificação",
+    "friends": "Amigos",
+    "profile": "Perfil",
+    "settings": "Configurações"
+  },
+  "home": {
+    "welcome": "Bem-vindo de volta, {{username}}!",
+    "featuredGames": "Jogos em Destaque",
+    "recentActivity": "Atividade Recente",
+    "viewAll": "Ver todos"
+  },
+  "games": {
+    "availableGames": "Jogos Disponíveis",
+    "chooseGame": "Escolha um jogo para começar",
+    "playMultiplayer": "Jogar Multijogador",
+    "playVsBot": "Jogar contra Bot",
+    "spectate": "Assistir",
+    "status": {
+      "open": "Disponível",
+      "inProgress": "Em Andamento",
+      "finished": "Finalizado"
+    }
+  },
+  "leaderboard": {
+    "globalLeaderboard": "Classificação Global",
+    "rank": "Posição",
+    "player": "Jogador",
+    "level": "Nível",
+    "wins": "Vitórias",
+    "losses": "Derrotas",
+    "winRate": "Taxa de Vitória"
+  },
+  "friends": {
+    "onlineFriends": "Amigos Online",
+    "allFriends": "Todos os Amigos",
+    "suggestedFriends": "Sugestões de Amigos",
+    "addFriend": "Adicionar Amigo",
+    "searchFriends": "Procurar amigos..."
+  },
+  "profile": {
+    "personalInfo": "Informações Pessoais",
+    "changeAvatar": "Mudar Avatar",
+    "statistics": "Estatísticas",
+    "bio": "Biografia",
+    "saveChanges": "Salvar Alterações"
+  },
+  "settings": {
+    "title": "Configurações",
+    "subtitle": "Personalize sua experiência de jogo",
+    "language": {
+      "title": "Idioma",
+      "subtitle": "Escolha seu idioma preferido",
+      "options": {
+        "en": "Inglês (EUA)",
+        "pt": "Português (BR)"
+      }
+    },
+    "sound": {
+      "title": "Configurações de Som",
+      "masterVolume": "Volume Principal",
+      "musicVolume": "Volume da Música",
+      "effectsVolume": "Volume dos Efeitos"
+    },
+    "notifications": {
+      "title": "Notificações",
+      "enable": "Ativar Notificações",
+      "gameInvites": "Convites de Jogo",
+      "friendRequests": "Solicitações de Amizade",
+      "systemMessages": "Mensagens do Sistema"
+    },
+    "display": {
+      "title": "Exibição",
+      "darkMode": "Modo Escuro",
+      "highContrast": "Alto Contraste",
+      "animations": "Animações"
+    },
+    "save": "Salvar Configurações"
+  }
+}

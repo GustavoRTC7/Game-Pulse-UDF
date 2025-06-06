@@ -1,0 +1,92 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "back": "Back"
+  },
+  "navigation": {
+    "home": "Home",
+    "games": "Games",
+    "leaderboard": "Leaderboard",
+    "friends": "Friends",
+    "profile": "Profile",
+    "settings": "Settings"
+  },
+  "home": {
+    "welcome": "Welcome back, {{username}}!",
+    "featuredGames": "Featured Games",
+    "recentActivity": "Recent Activity",
+    "viewAll": "View all"
+  },
+  "games": {
+    "availableGames": "Available Games",
+    "chooseGame": "Choose a game to start playing",
+    "playMultiplayer": "Play Multiplayer",
+    "playVsBot": "Play vs Bot",
+    "spectate": "Spectate",
+    "status": {
+      "open": "Available",
+      "inProgress": "In Progress",
+      "finished": "Finished"
+    }
+  },
+  "leaderboard": {
+    "globalLeaderboard": "Global Leaderboard",
+    "rank": "Rank",
+    "player": "Player",
+    "level": "Level",
+    "wins": "Wins",
+    "losses": "Losses",
+    "winRate": "Win Rate"
+  },
+  "friends": {
+    "onlineFriends": "Online Friends",
+    "allFriends": "All Friends",
+    "suggestedFriends": "Suggested Friends",
+    "addFriend": "Add Friend",
+    "searchFriends": "Search friends..."
+  },
+  "profile": {
+    "personalInfo": "Personal Information",
+    "changeAvatar": "Change Avatar",
+    "statistics": "Statistics",
+    "bio": "Bio",
+    "saveChanges": "Save Changes"
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Customize your gaming experience",
+    "language": {
+      "title": "Language",
+      "subtitle": "Choose your preferred language",
+      "options": {
+        "en": "English (US)",
+        "pt": "Portuguese (BR)"
+      }
+    },
+    "sound": {
+      "title": "Sound Settings",
+      "masterVolume": "Master Volume",
+      "musicVolume": "Music Volume",
+      "effectsVolume": "Effects Volume"
+    },
+    "notifications": {
+      "title": "Notifications",
+      "enable": "Enable Notifications",
+      "gameInvites": "Game Invites",
+      "friendRequests": "Friend Requests",
+      "systemMessages": "System Messages"
+    },
+    "display": {
+      "title": "Display",
+      "darkMode": "Dark Mode",
+      "highContrast": "High Contrast",
+      "animations": "Animations"
+    },
+    "save": "Save Settings"
+  }
+}
