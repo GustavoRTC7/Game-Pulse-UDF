@@ -135,8 +135,3 @@ O projeto é totalmente responsivo com breakpoints:
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-
-
-## 📞 Suporte
-
-Para suporte, abra uma issue no GitHub ou entre em contato através do email: suporte@gamepulse.dev
