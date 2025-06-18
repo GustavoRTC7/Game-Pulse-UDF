@@ -136,9 +136,6 @@ O projeto é totalmente responsivo com breakpoints:
 5. Abra um Pull Request
 
 
-## 🎮 Demo
-
-Acesse a demo online: [https://gamepulse.netlify.app](https://gamepulse.netlify.app)
 
 ## 📞 Suporte
 
